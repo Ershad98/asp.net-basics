@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\HP\source\repos\firstlearning\firstlearning
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/HP/source/repos/firstlearning/firstlearning/Views/Helloword/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG93b3JkXGNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/HP/source/repos/firstlearning/firstlearning/Views/Helloword/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG93b3JkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
